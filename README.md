@@ -6,4 +6,7 @@ In this code , a deep learning approach  for automaticclassification of grouper 
  ##The spectrogram of Red hind grouper sounds are shown below:
 
 ![1](https://user-images.githubusercontent.com/45046562/48997994-e4d14400-f11f-11e8-9361-3293ff6c9c07.jpg)
-##The spectrogram of Nassau grouper sounds are shown below:
+The spectrogram of Nassau grouper sounds are shown below:
+![2](https://user-images.githubusercontent.com/45046562/48998196-b43dda00-f120-11e8-8e0f-121a55329f03.jpg)
+The spectrogram of Yellow fin grouper sounds are shown below:
+
