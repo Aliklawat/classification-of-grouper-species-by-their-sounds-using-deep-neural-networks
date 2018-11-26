@@ -11,3 +11,4 @@ The spectrogram of Nassau grouper sounds are shown below:
 The spectrogram of Yellow fin grouper sounds are shown below:
 ![3](https://user-images.githubusercontent.com/45046562/48998228-dc2d3d80-f120-11e8-8483-a4051274aa7a.jpg)
 The spectrogram of  Black grouper sounds are shown below:
+![4](https://user-images.githubusercontent.com/45046562/48998282-0aab1880-f121-11e8-989f-6d04e36117c9.jpg)
